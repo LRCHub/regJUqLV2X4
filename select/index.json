@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Interlude \"Awakening\"",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-02T08:07:36.112221Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Interlude \"Awakening\"",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Interlude__Awakening_YOASOBI.txt"
+    }
+  ]
+}
